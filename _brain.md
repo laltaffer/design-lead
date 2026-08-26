@@ -52,15 +52,14 @@ external peers the governance layer referees).
   (bake-off comp → approval → site-wide cleanup → gesso PASS ×4 → live-verified).
 
 ## Status
-Created 2026-08-26. Scaffolded + pushed (private). Next: /pm-lead zero-to-one to lock
-scope/audience/claims before any pack content is written; /cmo later for README and
-launch positioning (what "first" claim is honest per the 2026-08-25 Threads/GitHub
-survey — see design-prompt-libraries memory).
+Created 2026-08-26. Scaffolded + pushed (private). Scope/POV locked from the 08-26
+conversation (see Scope + Key Decisions) — Lawrence, same day, on my /pm-lead routing
+suggestion: "I'm not sure this is related to PM-lead.. this is more of PD lead skill..
+but also doesn't need to be tied to either." No pipeline gate; build directly.
 
 ## Open
-- Run /pm-lead zero-to-one (product definition: audience, jobs, honest differentiation
-  vs taste-skill/gesso/awesome-claude-design, v1 cut).
-- Then port + de-personalize: moodboard SKILL.md, registry templates, critique/gate
-  wiring docs, generation-shell reference, manifesto.
+- Port + de-personalize: moodboard SKILL.md, registry templates (Design DNA + Typeface
+  + Claude-tells), critique/gate wiring docs, generation-shell reference, manifesto.
 - Naming decision (working title design-dna).
-- Launch: flip repo public, /cmo positioning pass.
+- Launch: flip repo public; optional /cmo positioning pass for README/claims (honest
+  "first" framing per the 2026-08-25 survey — see design-prompt-libraries memory).
