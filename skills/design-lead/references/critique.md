@@ -29,6 +29,11 @@ When the target isn't HTML (a screenshot, a native screen, a Figma frame), the
 detector step is skipped and the review says so — the registry check still runs, and
 "no detector coverage" is stated rather than papered over.
 
+Motion is in scope. A motion-led surface — scroll choreography, transitions, grounds
+that react — cannot be judged from stills; the timing IS design content. Watch it (a
+screen recording, or a scripted scroll video read as filmstrips), say what was
+watched, or state "no motion coverage" as plainly as a skipped detector.
+
 ## Layer 2 — judgment, labeled as judgment
 
 Open the section by saying these are opinions, not detector findings. At most five

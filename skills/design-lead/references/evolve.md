@@ -16,7 +16,10 @@ Screenshot the live surface first — desktop AND ≈390px — and document:
 - **IA and conversion paths:** page tree, nav labels, slugs, form fields, analytics
   hooks. None of these change silently — renames break SEO, muscle memory, autofill,
   and tracking.
-- **Patterns to preserve:** the signature moves, the recognizable hero, the copy voice.
+- **Patterns to preserve:** the signature moves, the recognizable hero, the copy
+  voice — and the motion layer: transitions, easings, and scroll behavior are
+  shipped identity too. Record the surface moving rather than inferring motion from
+  stills; a delta that lands visually but breaks a signature transition is a break.
 - **Patterns to retire:** run the lint gate and the registry check on the LIVE surface;
   its hits are the work list.
 - **The concrete problem** the human named, in one sentence. No problem stated → ask

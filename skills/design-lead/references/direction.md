@@ -35,6 +35,13 @@ derive from (the register of: USGS quadrangle map, ghost-sign wall, engraving pl
 At least one candidate from outside web design: a physical artifact, print genre, or
 place. A world names a real visual tradition with its own rules.
 
+Adjectives in the brief — "fun", "premium", "bold" — are REGISTER requests, not prop
+lists. Resolve them through the world and its mechanisms (type nerve, palette
+register, motion timing, wordplay bound to the world), never through the props the
+adjective conjures (confetti and tilted stickers for fun, gold and serif for
+premium): those props are the model's priors showing, and most are registered
+tells. Wit belongs in the bones, not on the surface.
+
 **The choice is made visually, never from prose.** Run enough of stage 3 for EVERY
 candidate to give each a small board section — 2–3 rendered references, real swatches,
 type set in the actual faces — assemble them side by side in one board file, open it,
@@ -80,7 +87,22 @@ Every hero must answer: does this sell what the site sells?
 **Borrow only from pixels you have looked at.** A prose description of a layout
 invites model priors to fill the visual gap. Before taking a structural move from any
 reference, view its actual image and copy its composition facts: quantity, scale,
-spacing, ground.
+spacing, ground. Motion is pixels too: when a reference's power is choreography —
+transitions, scroll timing, a ground that reacts to content — watch it moving (a
+scripted scroll recording read as a filmstrip works) before stealing from it. A
+motion-led surface judged from stills gives up half its design.
+
+**A palette is a system with a stated logic.** Before any palette goes on a board:
+(1) its logic fits one sentence — tints of one hue plus a chromatic dark anchor, an
+off-axis complementary pair, an ordered ramp; a palette that can't state its logic
+reads random, however good the swatches. (2) Every color holds a locked role — an
+accent that only ever marks action stays electric; spent everywhere, it's noise.
+(3) Doses stay unequal — a quiet field with vivid micro-doses, or a full drench
+with restraint; a 50/50 vivid split reads chaotic. (4) Chroma and lightness are
+chosen against the surface's intended register: light + high-chroma reads playful,
+light + muted reads calm, dark + restrained reads serious — and mid-lightness,
+mid-chroma aged surfaces read dated in any world. (5) The ground may participate
+(scene-by-scene recolors) only under the same one-line logic.
 
 ## 4. Registry check
 

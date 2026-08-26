@@ -5,3 +5,5 @@
 ## [2026-08-26] plan | personal-stack migration saved as next step (engine + overlay; moodboard diff first)
 
 ## [2026-08-26] migrate | Personal stack onto the pack: moodboard lessons upstreamed to direction.md, /moodboard retired, LOCAL.md overlay written, dogfood registries merged into Resources, CLAUDE.md Web Design slimmed
+
+## [2026-08-26] upstream | Fun-register session applied to pack: adjective-briefs-as-register rule, palette-as-system discipline, motion-coverage rules in direction/critique/evolve
