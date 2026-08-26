@@ -20,7 +20,8 @@ Live at `~/.claude/design-lead/` (override in LOCAL.md):
 - `Typeface-Registry.md` — shipped faces per project; look-alike and overuse checks.
 
 If they don't exist, create both from `templates/` (sibling to `references/`) on the
-first run of any mode, tell the user where they landed, and continue.
+first run of any mode — deleting the `_example (delete)_` rows as you seed — tell the
+user where they landed, and continue.
 
 **The check** (before showing any visual proposal, every mode): exact reuse of a
 registered palette/motif/move · family resemblance to a registered row · known
