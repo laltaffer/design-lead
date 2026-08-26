@@ -1,0 +1,20 @@
+# LOCAL.md — personal overlay (gitignored; copy to LOCAL.md beside SKILL.md)
+
+Everything here outranks the pack's defaults. This file is yours; the pack never
+writes to it without telling you.
+
+## Registry location
+<!-- default: ~/.claude/design-lead/ -->
+
+## Standing vetoes
+<!-- hard personal bans, with the why — e.g. "no scrolling tickers/marquees, ever" -->
+
+## Approval conventions
+<!-- how comps are shown to you, what counts as a yes, who else signs off -->
+
+## Reserved signatures
+<!-- looks that belong to ONE project/brand and must be checked against, never
+     reached for elsewhere — e.g. a personal-brand palette other projects avoid -->
+
+## Local tools
+<!-- research MCPs, image APIs, screenshot tooling available in your environment -->
