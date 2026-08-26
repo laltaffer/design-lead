@@ -93,21 +93,32 @@ to either").
   indexed it; listing at skills.sh/laltaffer/design-lead/design-lead, shows a pending
   Snyk audit flag, standard for new listings). Optional /cmo positioning pass for
   README/claims still available on Lawrence's ask.
-- **NEXT STEP (decided 2026-08-26, not yet executed): migrate Lawrence's personal
-  stack onto the pack — engine + overlay form.** Recommendation accepted in-session;
-  execute in this order (~1 hr of careful diffing, not a drive-by):
-  1. Diff `~/.claude/skills/moodboard/SKILL.md` against the pack's `direction.md`
-     FIRST — upstream every general lesson the port didn't carry (study archival to
-     Design-Library, amend-mode verbatims) into the public pack; personal bits go to
-     LOCAL.md. Only then retire /moodboard in favor of /design-lead direction.
-  2. Symlink `skills/design-lead` from this repo into `~/.claude/skills/design-lead`
-     (pm-lead pattern) so dogfooding = development.
-  3. Write LOCAL.md beside the symlinked SKILL.md: registry location →
-     `~/SecondBrain/Resources/` (registries DO NOT move), reserved 03 signature,
-     vetoes, Refero guardrails, LOCAL-ONLY privacy rules, Design-Library harvest
-     methods, pointer to the design-taste memory (never duplicate it — one home).
-  4. Slim CLAUDE.md's Web Design section: keep always-on gates (mobile-first, slop
-     lint, registries-as-authority), point the moodboard bullet at /design-lead.
-  Rationale on record: two parallel systems drifted on day one (pack's critique knows
-  the challenge-page rule, personal gate doesn't); user-#1 dogfooding is the proven
-  fix loop.
+- ~~Personal-stack migration (engine + overlay)~~ — DONE 2026-08-26, all four steps,
+  with three deviations from the written plan:
+  1. **Diff verdict:** the port carried more than expected — `evolve.md` already held
+    the amend-mode discipline (screenshot-live-first, token preservation, the
+    "measurably worse" verbatim), and study archival was generalized, not lost. Four
+    real gaps upstreamed into `direction.md`: the mandatory-analog-reference rule with
+    its why (the one source a web corpus can't regurgitate; design-specific archives,
+    not fine-art museums), the "good enough to stop iterating on" hard-stop, the
+    every-candidate-advances-together comp-round rule (sameness = failure; only the
+    human kills a candidate), and study-archive mechanics (board + assets + index
+    line). /moodboard retired — archived at `~/.claude/retired-skills/moodboard/`
+    (untracked in the ~/.claude repo, so moved, not deleted; it keeps the dated
+    PackOut/Cosmos verbatims).
+  2. Symlink pre-existed (created earlier same day) — verified, left alone.
+  3. LOCAL.md written beside the symlinked SKILL.md (gitignored, verified invisible
+    to git): registry location + vocabulary mapping (Claude-tells = model-tells),
+    PARA gate-write targets, taste-memory pointer, vetoes, approval conventions,
+    reserved 03 signature pointer, LOCAL-ONLY rules, Refero/Mobbin/archive/harvest
+    tooling, gesso caveats, p2nda pointer. **Unplanned but forced by one-home:** the
+    dogfood-seeded `~/.claude/design-lead/` registries were merged into the Resources
+    registries (DLJ row enriched; italic-interjection tell enriched with the DLJ
+    catch + replacement; card-per-row tell added) and then deleted — LOCAL.md warns
+    against recreating the default location.
+  4. CLAUDE.md Web Design slimmed: moodboard bullet → /design-lead (engine + overlay
+    named), the ~250-word Refero bullet → 3 lines pointing at direction.md +
+    LOCAL.md + tool-governance.md, keeping only the registries-as-authority
+    invariant. Mobile-first, nav, DNA/typeface checks, slop lint bullets untouched.
+  Design-Registry's closing line now names /design-lead (was /moodboard) as the
+  automatic check-runner.

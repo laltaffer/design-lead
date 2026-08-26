@@ -7,8 +7,9 @@ to comps is the mode's failure state.
 
 **Study variant:** same pipeline, no project required — only a subject ("worlds for a
 hunting outfitter", "editorial registers for data products"). Run stages 1–4, skip the
-lock: nothing is written to any project. Archive the board wherever the user keeps
-reference material so studies compound into future direction runs.
+lock: nothing is written to any project. Archive the board — the file, its image
+assets, and an index line so future runs can find it — wherever the user keeps
+reference material, so studies compound into future direction runs.
 
 ## 1. Frame
 
@@ -21,6 +22,8 @@ failing at its job. "This surface isn't in the world yet" is an aesthetic itch, 
 problem; if no problem can be stated, say so and offer a study instead. Then verify
 the stated problem against the repo's CURRENT state, not just its notes — notes go
 stale, and running a direction for a problem already solved in-tree wastes the run.
+A recorded verdict that a surface is good enough to stop iterating on is a hard stop —
+it outranks any note about remaining ceiling.
 
 Privacy: for projects the user marks private/local-only, outbound research queries use
 world vocabulary only — never the project, client, or employer name.
@@ -41,8 +44,9 @@ full research pass then deepens the winner.
 ## 3. Research
 
 Gather references for the confirmed world until the bar is met: **3–5 references from
-at least two source types, every reference carrying an image file and a one-line steal
-note** ("the way X handles Y" — the specific move to take, not a vibe). Declare one
+at least two source types, at least one analog (non-web-design), every reference
+carrying an image file and a one-line steal note** ("the way X handles Y" — the
+specific move to take, not a vibe). Declare one
 reference **dominant**; the rest contribute 1–2 borrowed details each. Synthesize,
 never average — averaging references produces the safe middle this pack exists to kill.
 
@@ -55,7 +59,10 @@ never average — averaging references produces the safe middle this pack exists
 - **Tier 3 — flavor only:** analog artifacts from design-specific archives (Letterform
   Archive, Fonts In Use, Library of Congress collections, Internet Archive specimen
   books). Palette, texture, register vocabulary — never the center of gravity. A board
-  built analog-first produces museum pastiche with no web personality.
+  built analog-first produces museum pastiche with no web personality. One analog
+  reference is still mandatory: it is the one source a web-trained corpus can't
+  regurgitate. Stay in design-specific archives — fine-art museums read as museum,
+  not cutting-edge.
 
 Every candidate world needs Tier-1 evidence that it translates to modern web craft; a
 world with only Tier-3 evidence is flagged **unproven on the web**.
@@ -88,8 +95,11 @@ named with its one-sentence story, each reference as image + steal note with the
 dominant one marked, palette as real swatches with values, type candidates rendered in
 the actual faces, and every registry callout verbatim. Open it for the human.
 
-Iterate at the gate — swap references, re-run research — until approval. On approval
-(direction runs only):
+Iterate at the gate — swap references, re-run research — until approval. Every live
+candidate advances together each round: never iterate one while the others sit, and
+never build candidates on one shared skeleton — each candidate's structure comes from
+its own Tier-1 references, and sameness across candidates is exploration's failure
+state. Only the human kills a candidate. On approval (direction runs only):
 
 1. Write the locked direction into the project's design notes: world, dominant
    reference, borrowed details, palette, type, and the human's rejections VERBATIM
