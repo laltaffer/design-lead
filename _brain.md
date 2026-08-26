@@ -62,13 +62,23 @@ external peers the governance layer referees).
   (bake-off comp → approval → site-wide cleanup → gesso PASS ×4 → live-verified).
 
 ## Status
-Created 2026-08-26. Scaffolded + pushed (private). Scope/POV locked from the 08-26
-conversation (see Scope + Key Decisions) — Lawrence, same day, on my /pm-lead routing
-suggestion: "I'm not sure this is related to PM-lead.. this is more of PD lead skill..
-but also doesn't need to be tied to either." No pipeline gate; build directly.
+Created 2026-08-26; **v1 built and pushed same day (commit `eededfb`)**. Layout is
+skills-CLI installable (`npx skills add laltaffer/design-lead`): `skills/design-lead/`
+with router SKILL.md (role + registries + invariants + mode table), five references
+(direction w/ study variant, evolve, critique, encode, generation-shells,
+tool-governance), templates (Design-Registry, Typeface-Registry — empty with
+delete-me example rows under fictional "hollowtree-outfitters"; LOCAL.md.example),
+plus MANIFESTO.md and README.md at root. De-personalization verified by grep (no
+SecondBrain/Lawrence/project-name leaks); gesso credited as check-only npx dependency;
+registries default to ~/.claude/design-lead/ and self-seed on first run. Earlier same
+day: no pipeline gate per Lawrence ("more of a PD lead skill.. doesn't need to be tied
+to either").
 
 ## Open
-- Port + de-personalize: moodboard SKILL.md, registry templates (Design DNA + Typeface
-  + Claude-tells), critique/gate wiring docs, generation-shell reference, manifesto.
-- Launch: flip repo public; optional /cmo positioning pass for README/claims (honest
-  "first" framing per the 2026-08-25 survey — see design-prompt-libraries memory).
+- **Dogfood before launch:** run /design-lead (the pack's own copy, not the personal
+  stack) on a real brief once; fix what the run exposes.
+- Launch: flip repo public + register with skills.sh; optional /cmo positioning pass
+  for README/claims (honest "first" framing per the 2026-08-25 survey — see
+  design-prompt-libraries memory).
+- Post-launch: decide whether Lawrence's personal stack (moodboard + registries)
+  migrates onto the pack + LOCAL.md overlay, or stays a private superset.
