@@ -93,5 +93,21 @@ to either").
   indexed it; listing at skills.sh/laltaffer/design-lead/design-lead, shows a pending
   Snyk audit flag, standard for new listings). Optional /cmo positioning pass for
   README/claims still available on Lawrence's ask.
-- Post-launch: decide whether Lawrence's personal stack (moodboard + registries)
-  migrates onto the pack + LOCAL.md overlay, or stays a private superset.
+- **NEXT STEP (decided 2026-08-26, not yet executed): migrate Lawrence's personal
+  stack onto the pack — engine + overlay form.** Recommendation accepted in-session;
+  execute in this order (~1 hr of careful diffing, not a drive-by):
+  1. Diff `~/.claude/skills/moodboard/SKILL.md` against the pack's `direction.md`
+     FIRST — upstream every general lesson the port didn't carry (study archival to
+     Design-Library, amend-mode verbatims) into the public pack; personal bits go to
+     LOCAL.md. Only then retire /moodboard in favor of /design-lead direction.
+  2. Symlink `skills/design-lead` from this repo into `~/.claude/skills/design-lead`
+     (pm-lead pattern) so dogfooding = development.
+  3. Write LOCAL.md beside the symlinked SKILL.md: registry location →
+     `~/SecondBrain/Resources/` (registries DO NOT move), reserved 03 signature,
+     vetoes, Refero guardrails, LOCAL-ONLY privacy rules, Design-Library harvest
+     methods, pointer to the design-taste memory (never duplicate it — one home).
+  4. Slim CLAUDE.md's Web Design section: keep always-on gates (mobile-first, slop
+     lint, registries-as-authority), point the moodboard bullet at /design-lead.
+  Rationale on record: two parallel systems drifted on day one (pack's critique knows
+  the challenge-page rule, personal gate doesn't); user-#1 dogfooding is the proven
+  fix loop.
