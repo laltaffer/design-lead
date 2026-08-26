@@ -9,8 +9,8 @@ it apologizes, and next session it does the thing again. The correction went now
 design-lead gives corrections somewhere to go. It runs design work as a role with two
 registries behind it: one recording what each of your projects actually shipped, one
 recording the moves your model itself keeps reaching for. Every run reads both before
-showing you anything and writes back what you decided. By the tenth project, the skill
-knows your portfolio's DNA and your model's habits better than a prompt ever could.
+showing you anything and writes back what you decided. By the tenth project, the
+registries know your portfolio's DNA and your model's habits.
 
 ## The loop, concretely
 
