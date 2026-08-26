@@ -2,11 +2,11 @@
 status: planning
 type: skill pack (public, publication is the goal)
 stack: Markdown skills + registry templates; npx-wired lint dependency (gesso); no build step
-github: https://github.com/laltaffer/design-dna (private until launch; flips public at v1)
+github: https://github.com/laltaffer/design-lead (private until launch; flips public at v1)
 prev_path: n/a — created in tree
 ---
 
-# design-dna
+# design-lead
 
 ## Overview
 Public Claude Code skill pack packaging the taste-infrastructure system built across
@@ -47,7 +47,17 @@ external peers the governance layer referees).
   taste-skill and friends stay outside as governed peers.
 - **Private until launch (2026-08-26).** Repo created private; flips public when v1 is
   ready — nothing half-baked gets a URL.
-- Working title `design-dna`; naming explicitly open, Lawrence decides at /cmo.
+- **Named `/design-lead` (2026-08-26, Lawrence's pick).** Named from the moment of
+  use, not the concept ("calling /design-dna doesn't make sense" mid-project): it's a
+  ROLE summoned at five moments, completing the C-suite pattern (cto/cmo/pm-lead/uxr —
+  design was the missing chair). Symmetric with the public pm-lead pack. Invocation
+  grammar: `/design-lead direction` (new visual world) · `evolve <surface>` (the
+  ACRE-style preserve pass) · `critique <target>` (evidence first, judgment labeled) ·
+  `encode "<rule>"` (correction → registries, permanently) · `study <subject>`
+  (practice, no project). "Design DNA" survives as the REGISTRY component's name.
+  Rejected: /taste-* (collides with Leonxlnx/taste-skill, reads derivative), /pd-lead
+  (PD ambiguous publicly), /cdo (data-officer collision), /studio (not
+  self-documenting).
 - Proof point in hand: first production ship of the stack was ACRE commit `02e99fc`
   (bake-off comp → approval → site-wide cleanup → gesso PASS ×4 → live-verified).
 
@@ -60,6 +70,5 @@ but also doesn't need to be tied to either." No pipeline gate; build directly.
 ## Open
 - Port + de-personalize: moodboard SKILL.md, registry templates (Design DNA + Typeface
   + Claude-tells), critique/gate wiring docs, generation-shell reference, manifesto.
-- Naming decision (working title design-dna).
 - Launch: flip repo public; optional /cmo positioning pass for README/claims (honest
   "first" framing per the 2026-08-25 survey — see design-prompt-libraries memory).

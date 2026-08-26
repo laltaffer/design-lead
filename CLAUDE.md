@@ -1,4 +1,4 @@
-# design-dna — project context
+# design-lead — project context
 Memory: see _brain.md. Status/decisions live there.
 
 Public skill pack (repo private until launch). Personal state goes in LOCAL.md (gitignored), never in tracked files.
