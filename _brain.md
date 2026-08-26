@@ -75,8 +75,18 @@ day: no pipeline gate per Lawrence ("more of a PD lead skill.. doesn't need to b
 to either").
 
 ## Open
-- **Dogfood before launch:** run /design-lead (the pack's own copy, not the personal
-  stack) on a real brief once; fix what the run exposes.
+- ~~Dogfood before launch~~ — DONE 2026-08-26: ran the pack cold (critique + encode on
+  designleaderjobs.com via its local dist build; registries seeded at
+  ~/.claude/design-lead/ and grown with a real DLJ row + 2 tells). Three gaps exposed
+  and fixed same day (commit `7c56f98`): critique now verifies the target is the real
+  page (a Cloudflare challenge page PASSed the detector meaninglessly), chases every
+  detector quote to source (a flagged "oversized number" was actually raw scraped
+  location data visible in the UI — worse than the rule knew; a "585 slots in one
+  row" hit was a parser artifact), and seeding deletes the template example rows.
+  Direction/evolve modes not exercised in dogfood (evolve was validated pre-pack on
+  ACRE; direction's method is the ported moodboard pipeline). The critique also
+  produced real DLJ findings — handed to Lawrence in-session, DLJ fixes are that
+  project's call.
 - Launch: flip repo public + register with skills.sh; optional /cmo positioning pass
   for README/claims (honest "first" framing per the 2026-08-25 survey — see
   design-prompt-libraries memory).
