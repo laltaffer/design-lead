@@ -2,7 +2,7 @@
 status: planning
 type: skill pack (public, publication is the goal)
 stack: Markdown skills + registry templates; npx-wired lint dependency (gesso); no build step
-github: https://github.com/laltaffer/design-lead (private until launch; flips public at v1)
+github: https://github.com/laltaffer/design-lead (PUBLIC since 2026-08-26)
 prev_path: n/a — created in tree
 ---
 
@@ -87,8 +87,11 @@ to either").
   ACRE; direction's method is the ported moodboard pipeline). The critique also
   produced real DLJ findings — handed to Lawrence in-session, DLJ fixes are that
   project's call.
-- Launch: flip repo public + register with skills.sh; optional /cmo positioning pass
-  for README/claims (honest "first" framing per the 2026-08-25 survey — see
-  design-prompt-libraries memory).
+- ~~Launch~~ — DONE 2026-08-26: repo PUBLIC; install path validated end-to-end
+  (`npx skills add laltaffer/design-lead` lands SKILL.md + references + templates);
+  listed on skills.sh (registration is install-telemetry — the validation install
+  indexed it; listing at skills.sh/laltaffer/design-lead/design-lead, shows a pending
+  Snyk audit flag, standard for new listings). Optional /cmo positioning pass for
+  README/claims still available on Lawrence's ask.
 - Post-launch: decide whether Lawrence's personal stack (moodboard + registries)
   migrates onto the pack + LOCAL.md overlay, or stays a private superset.
