@@ -2,3 +2,9 @@ LOCAL.md
 .scratch/
 .DS_Store
 node_modules/
+
+# Project internals: PARA brain, activity log, and internal strategy docs.
+# These are notes for the operator, not part of the installable pack.
+_brain.md
+log.md
+.agents/
